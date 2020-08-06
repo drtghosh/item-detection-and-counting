@@ -17,8 +17,7 @@ models\
     label_map.pbtext
 |-checkpoints\
 |-data\
- |--
-    train_labels.csv
+ |--train_labels.csv
     train.record
     val_labels.csv
     val.record
