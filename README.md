@@ -31,3 +31,5 @@ Images labelled using labelImg: https://github.com/tzutalin/labelImg
 Go to models/research/object_detection/samples/configs: modify the config file for ssd_mobilenet_v2_coco to change num_classes=1, train_input_reader and eval_input_reader input_path changed as per folder structure.
 
 Train using models/research/object_detection/model_main.py
+
+Notebook (code) added for the steps followed in models/pepsi-detection.ipynb.
